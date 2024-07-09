@@ -1,0 +1,1 @@
+localPath = "C:\\Users\\Ageus\\Desktop\\dev\\python\\ema y eva"
